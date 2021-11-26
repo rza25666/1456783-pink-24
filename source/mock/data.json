@@ -1,0 +1,5 @@
+{
+  "foo": "bar",
+  "lorem": "ipsum",
+  "navLink": [{"/": "Главная"}, {"photo.html": "Наши работы"},{"form.html": "asdsa"}]
+}
